@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private WebView web;
     private ProgressBar progressBar;
-    private String webURL = "https://www.google.com/";
+    private String webURL = "https://www.google.co.in/";
     private ProgressDialog progressDialog;
 
     private ConnectivityManager manager;
